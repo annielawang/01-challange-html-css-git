@@ -9,7 +9,7 @@
 - What did you learn?  
   I have learned ways to make the html/css codes more concise.
 ## Usage
-Users will go to the website, scroll up and down and find the services they want. By clicking the links of services, they are guided to the services they need.
+Users will go to the website, scroll up and down and find the services they want. By clicking the links of services, they are guided to the services they need. You can access the link here: https://annielawang.github.io/01-challange-html-css-git/
 ## Credits
 Thank my teachers and classmates for their help. Thank my families for their support.
 ## License
