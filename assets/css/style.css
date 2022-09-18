@@ -1,13 +1,16 @@
+/* match all elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* set body back ground color */
 body {
     background-color: #d9dcd6;
 }
 
+/* set header style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* hero class selector for styling the major img at the top of the webpage*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* class selector for styling the aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +91,7 @@ p {
     background-color: #2589bd;
 }
 
+/* class selector for styling different sections in aside */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +108,7 @@ p {
     max-width: 150px;
 }
 
+/* class selector for styling some sections in main */
 .marketing-contents {
     margin-bottom: 20px;
     padding: 50px;
